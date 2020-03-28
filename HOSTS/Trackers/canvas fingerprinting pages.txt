@@ -1439,7 +1439,6 @@
 0.0.0.0 betapet.se
 0.0.0.0 betches.com
 0.0.0.0 bethblog.com
-0.0.0.0 bethesda.net
 0.0.0.0 betterafter.net
 0.0.0.0 betterdecoratingbible.com
 0.0.0.0 betterhensandgardens.com
@@ -8177,7 +8176,6 @@
 0.0.0.0 mobilesreview.co.in
 0.0.0.0 mobilesringtones.com
 0.0.0.0 mobilestechguru.com
-0.0.0.0 mobilesyrup.com
 0.0.0.0 mobiletechbase.com
 0.0.0.0 mobiletechreview.com
 0.0.0.0 mobileunlockguide.com
